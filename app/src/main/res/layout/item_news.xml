@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp">
+
+    <LinearLayout
+        android:id="@+id/holder_date"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/button_circle_accent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="23"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_month"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="OCT"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/holder_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="Youth Gathering"
+            android:textAllCaps="true"
+            android:textColor="@color/colorAccent"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_default_8dp"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:lines="2"
+            android:maxLines="2"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa quam, placerat et augue id, consectetur consequat ipsum. Quisque nibh nisi, placerat nec neque vel, mattis cursus lorem. Pellentesque metus nisl, rutrum eget ante vitae, venenatis viverra orci. In hac habitasse platea dictumst. In tempus rutrum turpis hendrerit facilisis. Vivamus facilisis maximus dictum. In nibh velit, vulputate a nulla vitae, placerat fringilla neque. Ut at arcu in ex scelerisque egestas. Nam ac eros mi. Phasellus non orci tristique, dapibus ligula vitae, fermentum enim. Etiam tincidunt vulputate orci quis semper. Ut tristique fermentum mauris at iaculis. Aliquam tincidunt est eu auctor maximus. Vestibulum quam orci, viverra id neque ut, consectetur mollis dui."
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:id="@+id/holder_links"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/tv_type"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="@dimen/dimen_default_8dp"
+                android:drawableLeft="@drawable/ic_group_grey_10dp"
+                android:drawablePadding="4dp"
+                android:maxWidth="@dimen/item_link_max_width"
+                android:text="Events"
+                android:textAllCaps="true"
+                android:textColor="@color/text_grey"
+                android:textSize="10sp" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

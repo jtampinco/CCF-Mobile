@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions that can be edited to thoroughly edit the design of a layout -->
+    <dimen name="item_podcast_latest_thumbnail_height">96dp</dimen>
+    <dimen name="item_podcast_latest_thumbnail_width">120dp</dimen>
+    <dimen name="item_podcast_category_height">180dp</dimen>
+    <dimen name="item_events_banner_height">160dp</dimen>
+    <dimen name="item_link_max_width">140dp</dimen>
+    <dimen name="dimen_default_8dp">8dp</dimen>
+</resources>

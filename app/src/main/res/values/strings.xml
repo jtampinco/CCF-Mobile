@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CCF-Mobile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lorem_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet dui condimentum felis eleifend dapibus. Vestibulum a arcu bibendum, aliquet ipsum id, consectetur eros. Phasellus justo quam, fringilla id ipsum ut, placerat porttitor metus. Nam ut justo aliquet, gravida justo et, rutrum dolor. Quisque tristique felis ac purus tristique tristique. Quisque egestas lobortis neque, id sagittis mauris feugiat non. Nullam vel aliquam nulla. Suspendisse potenti. Vivamus cursus hendrerit nisl, vehicula hendrerit sem mollis rutrum.</string>
+    <string name="lorem_2">
+        \tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet dui condimentum felis eleifend dapibus. Vestibulum a arcu bibendum, aliquet ipsum id, consectetur eros. Phasellus justo quam, fringilla id ipsum ut, placerat porttitor metus. Nam ut justo aliquet, gravida justo et, rutrum dolor. Quisque tristique felis ac purus tristique tristique. Quisque egestas lobortis neque, id sagittis mauris feugiat non. Nullam vel aliquam nulla. Suspendisse potenti. Vivamus cursus hendrerit nisl, vehicula hendrerit sem mollis rutrum.
+        \n\n
+        \tCurabitur tincidunt ligula ultrices mollis ultrices. Nunc vel dapibus ex, quis sodales tellus. Nunc venenatis a magna quis venenatis. Proin luctus sem a orci iaculis dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur laoreet mi non viverra scelerisque. In sed nibh sed leo pulvinar suscipit.
+    </string>
+    <string name="lorem_3">
+        \tLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet dui condimentum felis eleifend dapibus. Vestibulum a arcu bibendum, aliquet ipsum id, consectetur eros. Phasellus justo quam, fringilla id ipsum ut, placerat porttitor metus. Nam ut justo aliquet, gravida justo et, rutrum dolor. Quisque tristique felis ac purus tristique tristique. Quisque egestas lobortis neque, id sagittis mauris feugiat non. Nullam vel aliquam nulla. Suspendisse potenti. Vivamus cursus hendrerit nisl, vehicula hendrerit sem mollis rutrum.
+        \n\n
+        \tCurabitur tincidunt ligula ultrices mollis ultrices. Nunc vel dapibus ex, quis sodales tellus. Nunc venenatis a magna quis venenatis. Proin luctus sem a orci iaculis dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur laoreet mi non viverra scelerisque. In sed nibh sed leo pulvinar suscipit.
+        \n\n
+        \tOrci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris placerat tortor ante, at euismod odio semper vel. Mauris euismod bibendum imperdiet. Aliquam feugiat diam odio, in varius quam finibus sit amet. Aenean ut ex ipsum. Sed sed pulvinar neque. Pellentesque viverra, ipsum quis interdum placerat, purus risus iaculis velit, non hendrerit elit ligula eget nunc. Donec sodales neque vel tellus posuere venenatis. Nulla ac iaculis velit, sed ornare sapien. Aliquam et pulvinar justo. Integer quis iaculis justo. Nulla eu dui facilisis, malesuada risus sed, accumsan purus.
+    </string>
+    <string name="podcast_title_1">Jesus is the Lord of life: Trust Him</string>
+    <string name="podcast_title_2">Jesus is the Sheperd: Depend on Him</string>
+    <string name="podcast_title_3">Jesus is the Light: Come and See</string>
+    <string name="podcast_content_1">In peace I will both lie down and sleep, for You alone, O Lord, make me dwell in safety.</string>
+    <string name="podcast_content_2">My sheep hear My voice, and I know them, and they follow Me.</string>
+    <string name="podcast_content_3">He is the Light of the world, Whoever follows Him will never fall into the darkness for Jesus the Light of Life is with them always.</string>
+
+
+</resources>
